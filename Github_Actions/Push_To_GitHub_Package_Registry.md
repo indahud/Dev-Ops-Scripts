@@ -1,0 +1,1 @@
+This Github action workflow can be used to build the Dockerfile and push it to GitHub Package Registry.
