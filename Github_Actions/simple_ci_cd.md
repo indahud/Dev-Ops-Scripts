@@ -1,1 +1,0 @@
-This Github action workflow can build the Dockerfile whenever there is a pull request or code pushed on main branch.
