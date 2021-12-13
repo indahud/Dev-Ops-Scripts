@@ -30,3 +30,7 @@
 ```
 
 
+### Join different network
+```bash
+  docker swarm join --token <your_token> <your_ip:port>
+```
